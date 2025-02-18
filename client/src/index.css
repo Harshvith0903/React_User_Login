@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Urbanist', sans-serif;
+  background: url('/Users/harshvith/Desktop/Hextasphere/Projects/React/projects/login-signup/client/src/assets/background.jpg')
+  no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  font-family: 'Rubik Moonrocks', sans-serif;
+}
